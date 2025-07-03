@@ -1,0 +1,8 @@
+.nav__link{
+    color:#333;
+    font-weight: bold;
+}
+.nav__link--activo{
+    color: aqua;
+    border-bottom: 2px solid aqua;
+}
